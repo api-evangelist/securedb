@@ -1,0 +1,48 @@
+{
+    "name": "SecureDB",
+    "description": "<p>SecureDB is the fastest way to encrypt and store the data in the cloud. SecureDB comes built-in with the following modules: 1) Encrypted User Profiles 2) Encrypted Custom Data 3) Encrypted Files. Traditionally, implementing encryption is a complicated, expensive and time consuming exercise. SecureDB makes implementing strong encryption simple, fast and inexpensive.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/securedb-logo.png",
+    "tags": [
+        "databases",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/securedb\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "SecureDB",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/securedb-logo.png",
+            "humanURL": "https:\/\/securedb.co\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/securedb-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/securedb.co\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/securedb.co\/feed\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/securedb"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/securedb.co\/"
+        }
+    ]
+}
